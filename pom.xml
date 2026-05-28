@@ -6,8 +6,8 @@
 	<name>PhoenixTestAutomationFramework</name>
 	<description>PhoenixTestAutomationFramework</description>
 	<properties>
-		<maven.compiler.sorurce>11</maven.compiler.sorurce>
-		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.sorurce>14</maven.compiler.sorurce>
+		<maven.compiler.target>14</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
